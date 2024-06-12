@@ -2,7 +2,7 @@
 
 ## AllControl.fxml
 
-### Introducción
+## Introducción
 Como sabemos, para crear un proyecto JavaFX tenemos que manejar una interfaz gráfica para ello en el presente trabajo se importaron las clases necesarias de la biblioteca JavaFX, como por ejemplo, Application, Scene, Control y Layout, Stage. Las mismas que son fundamentales para la creación de aplicaciones, contenedores de graficos, manejar el uso de controlese etc.
 En el proyecto subido vamos a encontrar bootones que contienen eventos, un textField, además de que posee un AnchorPane para posicionar los elementos de manera que se muestren correctamente ajustados en la ventana.
 
